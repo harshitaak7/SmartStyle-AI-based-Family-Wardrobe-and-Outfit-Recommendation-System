@@ -26,21 +26,6 @@ SmartStyle is a full-stack web application that helps families manage their ward
   <li><strong>Storage:</strong> Supabase Storage</li>
 </ul>
 
-<h2>Project Structure</h2>
-<pre>
-SmartStyle/
-├── assets/
-├── screenshots/
-├── src/
-│   ├── css/
-│   ├── js/
-│   └── pages/
-├── supabase/
-│   └── config.js
-├── index.html
-└── README.md
-</pre>
-
 <h2>How It Works</h2>
 <ol>
   <li>The user enters their email and verifies the OTP sent to their inbox.</li>
